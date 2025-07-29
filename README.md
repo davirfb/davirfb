@@ -28,5 +28,5 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=DaviRocha&color=000000&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rocha-58439a265/)
 
-[![Email](https://img.shields.io/static/v1?label=Email&message=davirochafortesbezerra@gmail.com&color=000000&style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/static/v1?label=Email&message=davirochafortesbezerra@gmail.com&color=000000&style=for-the-badge&logo=gmail&logoColor=white)](mailto:davirochafortesbezerra@gmail.com)
 
